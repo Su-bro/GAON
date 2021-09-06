@@ -12,8 +12,7 @@
   - [산출물](#산출물) 
   - [배포 환경](#배포-환경)
   - [개발 환경](#개발-환경)
-  - [Design Resources](#design-resources)
-  - [핵심 라이브러리](#핵심-라이브러리)
+  - [Design Resources](#Design)
 <br>
 
 ## 프로젝트 소개
